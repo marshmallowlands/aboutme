@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+#h5id01 {
+	color: #2cb469;
+	font-size: 16px;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -100,10 +105,10 @@ input, select, textarea {
 
 	body {
 		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #97ABFF 15%, #123597 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
