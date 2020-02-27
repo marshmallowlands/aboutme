@@ -104,13 +104,13 @@ input, select, textarea {
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
-
+	
 	body {
 		background-color: #97ABFF;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #97ABFF 15%, #123597 85%);
+		background-image: url("images/background.gif"), -moz-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
+		background-image: url("images/background.gif"), -webkit-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
+		background-image: url("images/background.gif"), -ms-linear-gradient(45deg, #97ABFF 15%, #123597 85%);
+		background-image: url("images/background.gif"), linear-gradient(45deg, #97ABFF 15%, #123597 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
